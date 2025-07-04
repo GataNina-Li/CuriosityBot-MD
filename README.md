@@ -108,25 +108,6 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 - **Contacto(s):** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
 - **Discord:** [`SkyUltraPlus`](https://discord.gg/6saUm5cw)
 ----
-### 📦⛏️ BOXMINE HOST 
-<a href="https://boxmineworld.com"><img src="https://i.imgur.com/allAyd4.png" height="125px"></a>
-### BoxMine World
-- **Pagina Oficial:** [`Boxmineworld`](https://boxmineworld.com)
-- **Tutorial - Crear cuenta en la Dashboard:** [`Dashboard`](https://www.youtube.com/watch?v=ZAwBLuNmIlI)
-- **Dashboard:** [`Dash`](https://dash.boxmineworld.com)
-- **Panel:** [`Aquí`](https://panel.boxmineworld.com)
-- **Dudas sobre el Host:** [`Discord`](https://discord.gg/84qsr4v) _(Preguntar por Vicemi)_
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va71C1q2UPBOICnxu83r)
------
-### 🎇 EDRACLOUD HOST
-<a href="https://test.crxsmods.site"><img src="https://qu.ax/pXdEg.jpg" height="130px"></a>
-
-- **Página:** [`Aquí`](https://test.crxsmods.site)
-- **Apk:** [`Aquí`](https://www.mediafire.com/file/6fqf72hfh06e4k4/EdraCloud)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
-- **Comunidad:** [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-- **Contacto:** [`Adrian`](https://wa.me/595976126756)
------
 
 ### `Gracias`
 <a href="https://github.com/GataNina-Li/CuriosityBot-MD/graphs/contributors">
