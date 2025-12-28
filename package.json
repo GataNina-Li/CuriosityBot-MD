@@ -13,7 +13,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^5.0.1",
     "@vitalets/google-translate-api": "^8.0.0",
-    "@whiskeysockets/baileys": "latest",
+    "@whiskeysockets/baileys": "github:gatanina-li/baileys",
     "api-dylux": "^1.8.3",
     "aptoide-scraper": "^1.0.1",
     "awesome-phonenumber": "^2.68.0",
